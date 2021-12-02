@@ -1,0 +1,8 @@
+locale                   : "en-US"
+title                    : "Site Title"
+title_separator          : "-"
+subtitle                 : "web programming"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : "https://webhomework.github.io"
+baseurl                  : ""
